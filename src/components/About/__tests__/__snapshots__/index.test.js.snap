@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`About component matches snapshot DOM node structure 1`] = `
+<DocumentFragment>
+  <section>
+    <h1
+      id="about"
+    >
+       About Me
+    </h1>
+    <img
+      alt="cover"
+      src="radial rainbow.jpg"
+      style="width: 50%;"
+    />
+  </section>
+</DocumentFragment>
+`;
