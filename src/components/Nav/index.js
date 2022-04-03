@@ -1,6 +1,11 @@
 import React from 'react';
 
 function Nav() {
+
+    const handleClick = () => {
+        console.log("click handled")
+    }
+
     return (
         <header>
             <h2>
@@ -11,18 +16,23 @@ function Nav() {
             <nav>
                 <ul>
                     <li>
-                        <a href="#about">
+                        <a href="#about" onClick={() => handleClick()}>
                             About me
                         </a>
                     </li>
                     <li>
-                        <span>Work</span>
+                        <a href="#work" onClick={() => handleClick()}>
+                            Work
+                        </a>
                     </li>
                     <li>
-                        <span>Contact</span>
+                        <a href="#contact" onClick={() => handleClick()}>
+                            Contact
+                        </a>
                     </li>
                     <li>
-                        <span>Resume</span>
+                        <a href="https://docs.google.com/document/d/1posGyekVmRyHkwEmDo2j5aLTIo_UnpQXfZeu9hLy59I/edit?usp=sharing" target="_blank">Resume</a>
+                        
                     </li>
                 </ul>
             </nav>
