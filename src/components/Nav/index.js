@@ -1,4 +1,5 @@
 import React from "react";
+import '../../index.css';
 
 function Nav(props) {
 
@@ -6,11 +7,11 @@ function Nav(props) {
 
     return (
         <header>
-            <h2>
+            <h1 className="title">
                 <a href="/">
-                    <span role="img" aria-label="clown"> 🚫🤡</span> no joke
+                    Katie Redford Portfolio
                 </a>
-            </h2>
+            </h1>
             <nav>
                 <ul>
                     <li>
@@ -41,8 +42,9 @@ function Nav(props) {
 						</span>
                     </li>
                     <li>
+                        <span>
                         <a href="https://docs.google.com/document/d/1posGyekVmRyHkwEmDo2j5aLTIo_UnpQXfZeu9hLy59I/edit?usp=sharing" target="_blank">Resume</a>
-                        
+                        </span>
                     </li>
                 </ul>
             </nav>
