@@ -1,0 +1,57 @@
+@media only screen and (min-width: 300px) {
+    .portrait img {
+        flex: wrap;
+        width: 300px;
+        border-radius: 24px 25px 25px 25px;
+    }
+
+    .about-me {
+        flex: 4;
+        padding: 20px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .about-me p {
+        flex: wrap;
+    }
+}
+
+@media only screen and (min-width: 800px) {
+    .portrait img {
+        flex: wrap;
+        width: 300px;
+        border-radius: 24px 25px 25px 25px;
+    }
+
+    .about-me {
+        flex: 4;
+        padding: 20px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .bio-text {
+        flex: wrap;
+        width: 75%;
+    }
+
+    header {
+        padding: 20px 35px;
+        padding-left: 0;
+        background-color: #ee6f9a;
+        display: flex;
+
+        flex-wrap: wrap;
+        align-items: center;
+
+    }
+
+    header nav {
+        float: right;
+        margin: 18px 47px;
+    }
+
+}

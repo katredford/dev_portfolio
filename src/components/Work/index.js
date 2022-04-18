@@ -1,10 +1,10 @@
 import React from "react";
-import '../../index.css';
+import '../../assets/index.css';
 
 function Work() {
     return (
-        <section>
-              <div className="bottom-work-container">
+        <section className="work-container">
+              <div >
 
             <div className="link">
             <a href ="https://likica.github.io/kitty_translator/" target="_blank">
@@ -18,6 +18,24 @@ function Work() {
           
             <div className="repo-link">
             <a href="https://github.com/Likica/kitty_translator" target="_blank">github repo</a>
+            </div>
+                </div>
+            </div>
+            
+             <div >
+
+            <div className="link">
+            <a href ="https://github.com/JSheleg/garden-thyme" target="_blank">
+            <div className="garden-thyme work-style">
+                
+                <div className="card-title">Garden Thyme</div>
+               
+            </div>
+             </a>
+             <p className="bottom-work-description"> An app where you can keep track of plants health and care schedule</p>
+          
+            <div className="repo-link">
+            <a href="https://github.com/JSheleg/garden-thyme" target="_blank">github repo</a>
             </div>
                 </div>
                 </div>

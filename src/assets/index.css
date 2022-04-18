@@ -104,7 +104,7 @@ header nav ul li :hover {
 }
 
 .hero {
-  background-image: url("assets/images/hero.png");
+  background-image: url("./images/hero.png");
   height: 200px;
   background-size: cover;
   background-position: center;
@@ -206,16 +206,18 @@ header nav ul li :hover {
 .work-container {
   display: flex;
   flex-wrap: wrap;
-  align-items: flex-start;
+  justify-content: space-evenly;
 
 }
 
-.grid-container {
+.card {}
+
+/* .grid-container {
   display: grid;
   grid-column: 2;
   grid-row: 2;
   display: grid;
-  /* grid-template-rows: 1fr 1fr; */
+
   margin: 33px 10px 0px 1px;
 }
 
@@ -232,7 +234,7 @@ header nav ul li :hover {
   flex-wrap: wrap;
   justify-content: space-around;
   width: 600px;
-}
+} */
 
 
 /* .garden-thyme {
@@ -270,7 +272,7 @@ header nav ul li :hover {
 }
 
 .kitten-around {
-  background-image: url("assets/images/kittenaround.home.png");
+  background-image: url("./images/kittenaround.home.png");
 }
 
 .kitten-around:hover {
@@ -293,10 +295,6 @@ header nav ul li :hover {
 .bbcm:hover {
   opacity: 75%;
 }
-
-
-
-
 
 
 .card-title {
