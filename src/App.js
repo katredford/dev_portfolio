@@ -12,7 +12,7 @@ function App() {
   return (
     <div>
       <Nav setCurrentPage={setCurrentPage}></Nav>
-      <section className="hero">
+      <section className="hero hero-pic">
         {/* <img src={hero} alt="cover" /> */}
         <h2>Where the magic happens!</h2>
       </section>

@@ -93,8 +93,8 @@ header nav ul li :hover {
 
 }
 
+
 .hero {
-  background-image: url("https://katredford.github.io/dev_portfolio/static/media/hero.9e5d5c63.png");
   height: 200px;
   background-size: cover;
   background-position: center;
@@ -103,6 +103,10 @@ header nav ul li :hover {
   display: flex;
   justify-content: flex-end;
   align-items: flex-end;
+}
+
+.hero-pic {
+  background-image: url("./images/hero.png");
 }
 
 .hero h2 {
