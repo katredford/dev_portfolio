@@ -95,6 +95,7 @@ header nav ul li :hover {
 
 
 .hero {
+  background-image: url("/dev_portfolio/images/hero.png");
   height: 200px;
   background-size: cover;
   background-position: center;
@@ -105,9 +106,7 @@ header nav ul li :hover {
   align-items: flex-end;
 }
 
-.hero-pic {
-  background-image: url("./images/hero.png");
-}
+
 
 .hero h2 {
   color: #763a8b;
