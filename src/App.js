@@ -2,9 +2,8 @@ import React, { useState } from "react";
 
 import CurrentPage from "./components/CurrentPage";
 import './assets/index.css';
-import About from './components/About';
 import Nav from './components/Nav';
-import Work from './components/Work';
+
 
 
 function App() {
