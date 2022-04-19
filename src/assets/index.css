@@ -213,18 +213,12 @@ header nav ul li :hover {
 }
 
 
-
-.garden-thyme:hover {
-  opacity: 75%;
-}
-
-
-
 .kitten-around {
   background-image: url("./images/kittenaround.home.png");
 }
 
 .kitten-around:hover {
+  background-image: url("./images/kittenaround.home.png");
   opacity: 75%;
 }
 
@@ -233,6 +227,7 @@ header nav ul li :hover {
 }
 
 .garden-thyme:hover {
+  background-image: url("./images/gardenThyme1.png");
   opacity: 75%;
 }
 
@@ -241,6 +236,7 @@ header nav ul li :hover {
 }
 
 .roast-me:hover {
+  background-image: url("./images/roastme.home.png");
   opacity: 75%;
 }
 
@@ -249,6 +245,7 @@ header nav ul li :hover {
 }
 
 .bbcm:hover {
+  background-image: url("./images/bbcm.home.png");
   opacity: 75%;
 }
 
