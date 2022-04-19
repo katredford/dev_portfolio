@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "d7789d56fb66fe0cb944",
-    "url": "./static/css/main.4a338efd.chunk.css"
+    "revision": "84a51e8f03e6287e07ba",
+    "url": "./static/css/main.89d8c42a.chunk.css"
   },
   {
-    "revision": "d7789d56fb66fe0cb944",
-    "url": "./static/js/main.d7789d56.chunk.js"
+    "revision": "84a51e8f03e6287e07ba",
+    "url": "./static/js/main.84a51e8f.chunk.js"
   },
   {
     "revision": "cc360fb6938c4a946641",
@@ -32,10 +32,6 @@ self.__precacheManifest = [
     "url": "./static/media/bbcm.home.e586fec3.png"
   },
   {
-    "revision": "9e5d5c632cd0bd584a9c16a50e1ad6a2",
-    "url": "./static/media/hero.9e5d5c63.png"
-  },
-  {
     "revision": "24562200bb76b2afe8aef1c2439f0eb5",
     "url": "./static/media/kittenaround.home.24562200.png"
   },
@@ -44,7 +40,11 @@ self.__precacheManifest = [
     "url": "./static/media/katie.705dc411.JPG"
   },
   {
-    "revision": "c4646772ae0020e2a1933e3450513e4f",
+    "revision": "9e5d5c632cd0bd584a9c16a50e1ad6a2",
+    "url": "./static/media/hero.9e5d5c63.png"
+  },
+  {
+    "revision": "3d6c37fe817290a7deee737fe15d2ac4",
     "url": "./index.html"
   }
 ];
