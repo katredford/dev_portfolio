@@ -6,7 +6,9 @@ function Nav(props) {
   return (
     <header>
       <h1 className="title">
-        <a href="/">Katie Redford Portfolio</a>
+        <a href="https://katredford.github.io/dev_portfolio">
+          Katie Redford Portfolio
+        </a>
       </h1>
       <nav>
         <ul>

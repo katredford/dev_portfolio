@@ -218,7 +218,7 @@ header nav ul li :hover {
 }
 
 .kitten-around:hover {
-  background-image: url("./images/kittenaround.home.png");
+  /* background-image: url("https://github.com/katredford/dev_portfolio/blob/main/src/assets/images/kittenaround.home.png"); */
   opacity: 75%;
 }
 
@@ -227,7 +227,7 @@ header nav ul li :hover {
 }
 
 .garden-thyme:hover {
-  background-image: url("./images/gardenThyme1.png");
+  /* background-image: url("https://github.com/katredford/dev_portfolio/blob/440eb2e15f07d57ea0717c2a166ece8858ec9bba/src/assets/images/gardenThyme1.png"); */
   opacity: 75%;
 }
 
@@ -236,7 +236,7 @@ header nav ul li :hover {
 }
 
 .roast-me:hover {
-  background-image: url("./images/roastme.home.png");
+  /* background-image: url("https://github.com/katredford/dev_portfolio/blob/440eb2e15f07d57ea0717c2a166ece8858ec9bba/src/assets/images/roastme.home.png"); */
   opacity: 75%;
 }
 
@@ -245,7 +245,7 @@ header nav ul li :hover {
 }
 
 .bbcm:hover {
-  background-image: url("./images/bbcm.home.png");
+  /* background-image: url("https://github.com/katredford/dev_portfolio/blob/440eb2e15f07d57ea0717c2a166ece8858ec9bba/src/assets/images/bbcm.home.png"); */
   opacity: 75%;
 }
 
