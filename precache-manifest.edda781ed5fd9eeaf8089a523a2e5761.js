@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/dev_portfolio/static/media/bbcm.home.e586fec3.png"
   },
   {
-    "revision": "24562200bb76b2afe8aef1c2439f0eb5",
-    "url": "/dev_portfolio/static/media/kittenaround.home.24562200.png"
-  },
-  {
     "revision": "9e5d5c632cd0bd584a9c16a50e1ad6a2",
     "url": "/dev_portfolio/static/media/hero.9e5d5c63.png"
+  },
+  {
+    "revision": "24562200bb76b2afe8aef1c2439f0eb5",
+    "url": "/dev_portfolio/static/media/kittenaround.home.24562200.png"
   },
   {
     "revision": "705dc41167279fc0c80f86d47e674acb",
