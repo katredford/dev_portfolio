@@ -95,7 +95,7 @@ header nav ul li :hover {
 
 
 .hero {
-  background-image: url("/dev_portfolio/images/hero.png");
+  background-image: url("./images/hero.png");
   height: 200px;
   background-size: cover;
   background-position: center;
@@ -248,7 +248,7 @@ header nav ul li :hover {
 }
 
 .bbcm:hover {
-  /* background-image: url("https://github.com/katredford/dev_portfolio/blob/440eb2e15f07d57ea0717c2a166ece8858ec9bba/src/assets/images/bbcm.home.png"); */
+  background-image: url("./images/bbcm.home.png");
   opacity: 75%;
 }
 
