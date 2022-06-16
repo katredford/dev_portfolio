@@ -215,45 +215,13 @@ header nav ul li :hover {
   width: 291px;
 }
 
-
-.kitten-around {
-  background-image: url("./images/kittenaround.home.png");
-}
-
-.kitten-around:hover {
-  /* background-image: url("https://github.com/katredford/dev_portfolio/blob/main/src/assets/images/kittenaround.home.png"); */
-  opacity: 75%;
-}
-
-.garden-thyme {
-  background-image: url("./images/gardenThyme1.png");
-}
-
-.garden-thyme:hover {
-  /* background-image: url("https://github.com/katredford/dev_portfolio/blob/440eb2e15f07d57ea0717c2a166ece8858ec9bba/src/assets/images/gardenThyme1.png"); */
-  opacity: 75%;
-}
-
-.roast-me {
-  background-image: url("./images/roastme.home.png");
-}
-
-.roast-me:hover {
-  /* background-image: url("https://github.com/katredford/dev_portfolio/blob/440eb2e15f07d57ea0717c2a166ece8858ec9bba/src/assets/images/roastme.home.png"); */
-  opacity: 75%;
-}
-
-.bbcm {
-  background-image: url("./images/bbcm.home.png");
-}
-
-.bbcm:hover {
-  background-image: url("./images/bbcm.home.png");
+.work-image:hover{
   opacity: 75%;
 }
 
 
 .card-title {
+ 
   width: 129px;
   background-color: #ee6f9a;
   margin: 15px 15px 27px 0px;
@@ -262,3 +230,17 @@ header nav ul li :hover {
   border-radius: 0px 25px 25px 0px;
 
 }
+
+
+
+
+ .kitten-around {
+  background-image: url("./images/kittenaround.home.png");
+}
+
+/* .kitten-around:hover {
+   background-image: url("https://github.com/katredford/dev_portfolio/blob/main/src/assets/images/kittenaround.home.png"); 
+  opacity: 75%;
+} */
+
+

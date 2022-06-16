@@ -1,11 +1,34 @@
 import React from "react";
 import "../../assets/index.css";
 import "../../assets/responsive.css";
+import source from "../../workSource.js";
+import Card from "../Card";
 
 function Work() {
+  const cards = source.map(data => {
+    return (
+      <Card
+        key={data.id}
+        img={data.coverImg}
+        title={data.title}
+        description={data.description}
+        link={data.imageLink}
+        repo={data.repo}
+      />
+  );
+    
+  })
   return (
-    <section className="work-container">
-      <div>
+    <div className="work-container">
+      {cards}
+    </div>
+  )
+  
+}
+
+export default Work;
+
+/* <div>
         <div className="link">
           <a
             href="https://likica.github.io/kitty_translator/"
@@ -113,9 +136,4 @@ function Work() {
             </a>
           </div>
         </div>
-      </div>
-    </section>
-  );
-}
-
-export default Work;
+      </div> */
