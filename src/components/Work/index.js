@@ -9,11 +9,7 @@ function Work() {
     return (
       <Card
         key={data.id}
-        img={data.img}
-        title={data.title}
-        description={data.description}
-        link={data.link}
-        repo={data.repo}
+        {...data}
       />
   );
     

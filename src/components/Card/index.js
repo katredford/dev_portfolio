@@ -1,8 +1,9 @@
 import React from "react"
+import PhotoList from "../PhotoList"
 
 export default function Card(props) {
   return (
-    <section className="work-container">
+    
   <div>
     <div className="link">
       <a
@@ -12,11 +13,10 @@ export default function Card(props) {
             
             {/* "kitten-around" is where the image comes from  */}
             <div className="work-style">
-               <img src={props.img} alt='' />
+               <img src={PhotoList} alt='' />
 
               <div className="card-title">{props.title}</div>
             </div>
-            
           </a>
         </div>
           <p className="work-description">{props.description}</p>
@@ -29,10 +29,8 @@ export default function Card(props) {
           github repo
         </a>
       </div>
-    
-  </div>
-  
-</section>
+    </div>
+
 
   )
 }

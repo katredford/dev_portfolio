@@ -4,7 +4,7 @@ export default [
     title: "Garden Thyme",
     description:
       "An app where you can keep track of plants health and care schedule",
-    img: "./assets/images/gardenThyme1.png",
+    img: "0.png",
     link: "https://github.com/JSheleg/garden-thyme",
     repo: "https://github.com/JSheleg/garden-thyme"
   },
@@ -13,7 +13,7 @@ export default [
     title: "Just Kitten Around",
     classname:"kitten-around",
     description: "Click and see what kitty says!",
-    img: "./assets/images/kittenaround.home.png",
+    img: "1.png",
     link: "https://likica.github.io/kitty_translator/",
     repo: "https://github.com/Likica/kitty_translator"
   },
@@ -22,7 +22,7 @@ export default [
     title: "Roast Me",
     description:
       "Social media application for people who love coffee. Share your morning cup 'o joe and get 'roasted' with an insult as well.",
-    img: "./assets/images/roastme.home.png",
+    img: "2.png",
     link: "https://gentle-wildwood-31451.herokuapp.com/",
     repo: "https://github.com/EACrook/Roast-Me"
   }
