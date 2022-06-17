@@ -1,7 +1,7 @@
 import React from "react";
 import "../../assets/index.css";
 import "../../assets/responsive.css";
-import source from "../../workSource.js";
+import source from "./work.json";
 import Card from "../Card";
 
 function Work() {

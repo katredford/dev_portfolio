@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import CurrentPage from "./components/CurrentPage";
 import "./assets/index.css";
 import "./assets/responsive.css";
-import "./assets/images/hero.png";
+
 import Nav from "./components/Nav";
 import Header from "./components/Header";
 

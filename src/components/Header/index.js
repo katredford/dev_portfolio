@@ -2,11 +2,11 @@ import React from "react";
 
 import "../../assets/index.css";
 import "../../assets/responsive.css";
-// import "../../assets/images/hero.png";
+import hero from "../../assets/images/hero.png"
 
 function Header() {
   return (
-    <section className="hero">
+    <section className="hero" style={{ backgroundImage: `url(${hero})` }}>
       <h2>Where the magic happens!</h2>
     </section>
   );
