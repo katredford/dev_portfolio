@@ -1,5 +1,9 @@
 [
   {
+    "id":0,
+    "img":"images/hero"
+  },
+  {
   "id": 1,
   "title": "Garden Thyme",
   "description": "An app where you can keep track of plants health and care schedule",

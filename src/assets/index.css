@@ -125,6 +125,9 @@ header nav ul li :hover {
   margin: 4px 4px 4px 4px;
 }
 
+.about-me img {
+  border-radius: 25px;
+}
 .section-title {
   font-size: 30px;
   border-right: dashed;
@@ -154,7 +157,7 @@ header nav ul li :hover {
 
 .bio-text {
   margin: 33px 13px 12px 10px;
-  font-size: 16px;
+  font-size: 20px;
   width: 1000px;
   flex: -5 40%;
 }
