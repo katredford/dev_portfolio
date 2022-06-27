@@ -2,7 +2,7 @@ import React from "react";
 
 import "../../assets/index.css";
 import "../../assets/responsive.css";
-import hero from "../../assets/images/hero.png"
+import hero from "./dev_portfolio/hero.png"
 
 function Header() {
   return (
