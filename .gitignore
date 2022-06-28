@@ -23,3 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 
 .DS_Store
+
+
+"homepage": "https://katredford.github.io/dev_portfolio",
